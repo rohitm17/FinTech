@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T09:54:39.247Z" agent="5.0 (Windows)" etag="PG_HcrUWZSaWYgvh1Xp_" version="18.2.0" type="github"><diagram id="xTH7kG4sdZBtPn9x50Fz" name="Page-1">7Zhbb5swGIZ/DZedOIUklw1p10rpWpVK1XbnggGvxo6MU0h//T4TAyGQnlS2XkyKovj1Afv5TiaG42fld4HW6RWPMDVsMyoNZ2nY9sybwbcStjvBnWohESTaSVYrBOQZa9HU6oZEOO8MlJxTSdZdMeSM4VB2NCQEL7rDYk67T12jBPeEIES0r96TSKb6WPa01S8wSdL6yZY33/VkqB6sT5KnKOLFnuScGY4vOJe7X1npY6rY1Vx2886P9DYbE5jJt0xIolv36sleoovL6/hXcf58d//7RK/yhOhGH1hvVm5rAnlBMooYtBa5REJqG5nQ1pOxkLg8uiurOSv4COYZlmILQ/SEiaaj3cPRzaJlPa2HpHuc3VpE2r5Js3KLAH5oCu8gMukRCTCLKrerrEpoj5DgGxZhtagFUIqUSBysUah6CwgK0FKZUd39JmbHbXUUZBMxNcl5H6VlD6D0xiLp9UieE4YYcLHNO4jhr8nRMbscT+w3crTH4mj3OK5wLEG5gaikVVITKsOSONYZKTdsgO+Upw2n4XhOuSDPnElEdUDvB7j3SRHudXm6fZzedACnMxuLp9vjeYdKEAIE5/xXTmkPM9x2fWsf2lBWHAvZtIfM34jqRLZ5yUJ4inJHRc/8idFXg6hXmb5aauz5kCOOBXX2eu39EtyaSHwBnPM3wc0HSjRVlz+oK1Uk3+KEKJc8nvliyHqB7lF5LkwJjVZoyzdq85AGw8e61c2S1kGWdMzOiEDN1GsKnMOYmxq+dSBdobIzcIVyWe+GU4rWOXmo9qcmZkgkhC24lDx7z+XrA+a2DgrgbKD+uQPmno9l7vpis2fv69WyZ13AICvjCP6IfU6hKDpLxnfmJpQeSIiShEGTqlrqLBRHAtf+Uy1nJIpodeeFeCMsqUqus3Rb5VYfXUkcpse0ut2nMBHDCos1J0xWLCYL+MAhfPPbxJjAXn1oW20bPmq4kD5nsH1EKuth8IcCK59YCC6RRA+Nt37c9PMXy8xAZA+aerTItvrvIz9w8d/Un29qbzxTQ7N9q6369v4acM7+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T09:57:01.070Z" agent="5.0 (Windows)" etag="_H6aw9VBFJbur8SjjIqg" version="18.2.0" type="github">
+  <diagram id="xTH7kG4sdZBtPn9x50Fz" name="Page-1">
+    <mxGraphModel dx="868" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="30" width="750" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-5" value="Send to mail" style="rounded=1;whiteSpace=wrap;html=1;" parent="gdR4Mv2DaHIOfZwFzTWj-1" vertex="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-6" value="Finance Tool" style="rounded=1;whiteSpace=wrap;html=1;" parent="gdR4Mv2DaHIOfZwFzTWj-1" vertex="1">
+          <mxGeometry x="300" y="-20" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-2" value="Left Panel for diff pages&#xa;" style="swimlane;horizontal=0;startSize=60;" parent="1" vertex="1">
+          <mxGeometry x="60" y="40" width="670" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-4" value="Tax Calculator" style="rounded=1;whiteSpace=wrap;html=1;" parent="gdR4Mv2DaHIOfZwFzTWj-2" vertex="1">
+          <mxGeometry y="20" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-7" value="Current Income Per Year" style="rounded=1;whiteSpace=wrap;html=1;" parent="gdR4Mv2DaHIOfZwFzTWj-2" vertex="1">
+          <mxGeometry x="70" y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="gdR4Mv2DaHIOfZwFzTWj-2" vertex="1">
+          <mxGeometry x="380" y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-9" value="Select Tax Regime" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gdR4Mv2DaHIOfZwFzTWj-2" vertex="1">
+          <mxGeometry x="100" y="80" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-10" value="OLD" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gdR4Mv2DaHIOfZwFzTWj-9" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdR4Mv2DaHIOfZwFzTWj-11" value="New" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gdR4Mv2DaHIOfZwFzTWj-9" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Znwq6vocfMJyxIPEqdc-1" value="Invest in MF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gdR4Mv2DaHIOfZwFzTWj-2">
+          <mxGeometry y="70" width="60" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
